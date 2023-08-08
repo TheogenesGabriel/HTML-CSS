@@ -1,0 +1,15 @@
+
+body{
+    background-color: rgb(224, 217, 146);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: justify;
+}
+h1{
+    background-color: rgb(177, 176, 73);
+    color: rgb(0, 0, 0);
+}
+
+h2{
+    color: rgb(81, 131, 131);
+}
